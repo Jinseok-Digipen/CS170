@@ -4,16 +4,12 @@ Reproduction or disclosure of this file or its contents without the prior
 written consent of DigiPen Institute of Technology is prohibited.
 File Name: Vec2.h
 Author: Jinseok Son
-Creation date: 2022-03-10
+Creation date: 2023-01-2
 -----------------------------------------------------------------*/
 #pragma once
 #include <cmath>
 #include <limits>
 #include "Vec2.h"
-
-
-
-
 
 namespace math
 {

@@ -15,6 +15,7 @@ namespace math
         const double new_y = left.y + right.y;
         return vec2{ new_x,new_y };
     }
+    //resue code 
     constexpr vec2& vec2::operator+=(const vec2& right) noexcept
     {
         *this = *this + right;
